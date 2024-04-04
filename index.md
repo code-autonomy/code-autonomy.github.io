@@ -54,7 +54,7 @@ The User-Profile page displays user's information (username, profile picture, an
 The Categories page provides a list of categories of topics for users to select from.
 
 ### Matching page
-The Matching page will contain the matching algorithm that will align the user's interests and hobbies with other users to match with.
+The Matching page provides users with potential clubs to join based on the selected interests and hobbies.
 
 ### Notify admin page
 The Notify admin page is a form for users to report any suspicious or inappropriate activities.
