@@ -42,19 +42,16 @@ Code Autonomy is designed, implemented, and maintained by Byron Soriano, Cristia
 The landing page is presented to users when they visit the top-level URL to the site.
 
 ### User home page
-Once logged in, the User home page displays an overview of the user's recently viewed items and/or favorite listings, options to create new items, and display of messages/notifications about posted items.
+Once logged in, the User home page displays an overview of the user's interests/hobbies, and display of messages/notifications about users that match their interests.
 
 ### Admin home page
-Once logged in, the Admin home page allows the admin to manage and moderate user accounts, items and services, and issues.
+Once logged in, the Admin home page allows the admin to manage and moderate user accounts, services, and issues.
 
 ### User-Profile page
-The User-Profile page displays user's information (username, profile picture, and bio) and posted item buy/sell with status.
+The User-Profile page displays user's information (username, profile picture, and bio).
 
 ### Categories page
-The Categories page provides a list of categories of items and services for users to select from.
-
-### Category page
-The Category page displays the actual list of items and services of the selected category (filtered).
+The Categories page provides a list of categories of topics for users to select from.
 
 ### Notify admin page
 The Notify admin page is a form for users to report any suspicious or inappropriate activities.
