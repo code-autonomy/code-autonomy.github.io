@@ -28,7 +28,7 @@ Administrators have the responsibility of monitoring the platform for inappropri
 * **Complaints**: users can report inappropriate content or users.
 
 ## Team
-Shop-Manoa is designed, implemented, and maintained by Byron Soriano, Cristian Milanes, Luis Hernandez, Joshua Asuncion, and Eisen Oallesma.
+Code Autonomy is designed, implemented, and maintained by Byron Soriano, Cristian Milanes, Luis Hernandez, Joshua Asuncion, and Eisen Oallesma.
 
 ## Mock-up Ideas
   * [Landing page](#landing-page)
