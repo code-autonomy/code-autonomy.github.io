@@ -10,9 +10,14 @@
 * [Development History](#development-history)
 
 ## Overview
-The project, tentatively named "Code Autonomy", aims to address the rapid turnover of goods and services among students at the University of Hawaii at Manoa (UHM). The primary goal is to create an effective marketplace for campus-specific items, facilitating their recycling and reuse.
 
-Shop-Manoa allows UHM students, faculty, and staff to buy and sell student-related goods and services. This platform is similar to Craigslist, with key differences including the requirement for UH credentials for all users, no anonymity, and the expectation of on-campus transactions.
+The project we chose to do was Club Hub. This website offers three distinct user roles, each authenticated via their UH ID. Standard users navigate through the directory, while Club Administrators possess the authority to modify their club's associated data. Super Administrators oversee the site's content integrity and selectively give "Club Administrator" privileges.
+
+The platform goes beyond mere alphabetical club listings, enabling users to refine searches by interest categories such as athletics, arts, music, etc. Clubs can align with multiple interest categories.
+
+Users have the option to specify their interest categories, receiving notifications when new clubs matching their preferences emerge or existing clubs incorporate those categories.
+
+Administrators have the responsibility of monitoring the platform for inappropriate content and are empowered to introduce new categories reflecting musical preferences, capabilities, and objectives.
 
 ## Features
 * **Roles** (users, admin): users can buy or sell goods and services, while administrators monitor user behavior and manage categories and other functionalities.
@@ -23,7 +28,7 @@ Shop-Manoa allows UHM students, faculty, and staff to buy and sell student-relat
 * **Complaints**: users can report inappropriate content or users.
 
 ## Team
-Shop-Manoa is designed, implemented, and maintained by [Javin Solmirin](https://javinsol.github.io), [Isaac Segawa](https://imths.github.io), [LaToya Gonzales](https://latoyagonzales.github.io), [Ayumu Yamagishi](https://000Aym612.github.io), [Jayrell Allen Ballesteros](https://Kyj1n.github.io), and [Xiaokang Chen](https://XiaoKChenEDU.github.io).
+Shop-Manoa is designed, implemented, and maintained by [Byron Soriano], [Cristian Milanes], [Luis Hernandez], [Joshua Asuncion], and [Eisen Oallesma].
 
 ## Mock-up Ideas
   * [Landing page](#landing-page)
