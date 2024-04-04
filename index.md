@@ -64,7 +64,7 @@ WIP
 
 ## Development History
 <h4>Milestone 1: Mock up Development</h4>
-https://github.com/orgs/code-autonomy/projects/4/views/1
+[Milestone 1](https://github.com/orgs/code-autonomy/projects/4/views/1)
 
 <h4>Milestone 2: Deployment</h4>
 WIP
