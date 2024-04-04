@@ -23,12 +23,12 @@ Administrators have the responsibility of monitoring the platform for inappropri
 * **Roles** (users, admin): users can buy or sell goods and services, while administrators monitor user behavior and manage categories and other functionalities.
 * **Categories**: feature broad categories for goods and services.
 * **Notifications**: users can opt to receive information via text message.
-* **Alerts**: users can set up alerts for specific items they are looking for and will be automatically notified when such items are listed for sale.
+* **Browse clubs**: Browse by interest area(s).
 * **Photos**: supports upload of photos.
 * **Complaints**: users can report inappropriate content or users.
 
 ## Team
-Shop-Manoa is designed, implemented, and maintained by [Byron Soriano], [Cristian Milanes], [Luis Hernandez], [Joshua Asuncion], and [Eisen Oallesma].
+Shop-Manoa is designed, implemented, and maintained by Byron Soriano, Cristian Milanes, Luis Hernandez, Joshua Asuncion, and Eisen Oallesma.
 
 ## Mock-up Ideas
   * [Landing page](#landing-page)
@@ -36,9 +36,6 @@ Shop-Manoa is designed, implemented, and maintained by [Byron Soriano], [Cristia
   * [Admin home page](#admin-home-page)
   * [User-Profile page](#user-profile-page)
   * [Categories page](#categories-page)
-  * [Category page](#category-page)
-  * [Create item page](#create-item-page)
-  * [Make offer on item page](#make-offer-on-item-page) 
   * [Notify admin page](#notify-admin-page)
 
 ### Landing page
@@ -73,7 +70,7 @@ WIP
 
 ## Development History
 <h4>Milestone 1: Mock up Development</h4>
-Milestone 1 is managed using [Shop-Manoa GitHub Project Board M1](https://github.com/orgs/shop-manoa/projects/1)
+
 <h4>Milestone 2: Deployment</h4>
 WIP
 <h4>Milestone 3: </h4>
