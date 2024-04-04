@@ -21,7 +21,7 @@ Administrators have the responsibility of monitoring the platform for inappropri
 
 ## Features
 * **Roles** (users, admin): users can buy or sell goods and services, while administrators monitor user behavior and manage categories and other functionalities.
-* **Categories**: feature broad categories for goods and services.
+* **Categories**: feature broad categories for interests and services.
 * **Notifications**: users can opt to receive information via text message.
 * **Browse clubs**: Browse by interest area(s).
 * **Photos**: supports upload of photos.
