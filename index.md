@@ -11,7 +11,7 @@
 
 ## Overview
 
-The project we chose to do was Club Hub. This website offers three distinct user roles, each authenticated via their UH ID. Standard users navigate through the directory, while Club Administrators possess the authority to modify their club's associated data. Super Administrators oversee the site's content integrity and selectively give "Club Administrator" privileges.
+The project we chose to do was Manoa Club Connect. This website offers three distinct user roles, each authenticated via their UH ID. Standard users navigate through the directory, while Club Administrators possess the authority to modify their club's associated data. Super Administrators oversee the site's content integrity and selectively give "Club Administrator" privileges.
 
 The platform goes beyond mere alphabetical club listings, enabling users to refine searches by interest categories such as athletics, arts, music, etc. Clubs can align with multiple interest categories.
 
