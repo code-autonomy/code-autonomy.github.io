@@ -56,12 +56,6 @@ The Categories page provides a list of categories of items and services for user
 ### Category page
 The Category page displays the actual list of items and services of the selected category (filtered).
 
-### Create item page
-The Create item page is a form where users can create an item to be put up for sell.
-
-### Make offer on item page
-The Make offer on item page is a form where users can put in an offer on an item that they are interested in buying.
-
 ### Notify admin page
 The Notify admin page is a form for users to report any suspicious or inappropriate activities.
 
