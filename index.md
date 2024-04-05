@@ -40,32 +40,32 @@ Code Autonomy is designed, implemented, and maintained by Byron Soriano, Cristia
 
 ### Landing page
 The landing page is presented to users when they visit the top-level URL to the site.
-<img src="../DrawingMockups/LandingPage.png">
+<img src="DrawingMockups/LandingPage.png">
 
 ### User home page
 Once logged in, the User home page displays an overview of the user's interests/hobbies, and display of messages/notifications about users that match their interests.
-<img src="../DrawingMockups/UserHomePage.png">
+<img src="DrawingMockups/UserHomePage.png">
 
 ### Admin home page
 Once logged in, the Admin home page allows the admin to manage and moderate user accounts, services, and issues.
-<img src="../DrawingMockups/AdminHome.png">
+<img src="DrawingMockups/AdminHome.png">
 
 ### User-Profile page
 The User-Profile page displays user's information (username, profile picture, and bio).
-<img src="../DrawingMockups/File_000.png">
+<img src="DrawingMockups/File_000.png">
 
 ### Categories page
 The Categories page provides a list of categories of topics for users to select from.
-<img src="../DrawingMockups/Categories.png">
+<img src="DrawingMockups/Categories.png">
 
 ### Matching page
 The Matching page provides users with potential clubs to join based on the selected interests and hobbies.
-<img src="../DrawingMockups/Matching.png">
+<img src="DrawingMockups/Matching.png">
 
 
 ### Notify admin page
 The Notify admin page is a form for users to report any suspicious or inappropriate activities.
-<img src="../DrawingMockups/Notify.png">
+<img src="DrawingMockups/Notify.png">
 
 ## Developer Guide
 WIP
