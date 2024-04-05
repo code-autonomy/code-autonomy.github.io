@@ -46,7 +46,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 Once logged in, the User home page displays an overview of the user's interests/hobbies, and display of messages/notifications about users that match their interests.
 <img src="DrawingMockups/UserHomePage.png">
 
-### Admin home page
+### Club Admin home page
 Once logged in, the Admin home page allows the admin to manage and moderate user accounts, services, and issues.
 <img src="DrawingMockups/AdminHome.png">
 
