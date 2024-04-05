@@ -60,6 +60,8 @@ The Categories page provides a list of categories of topics for users to select 
 
 ### Matching page
 The Matching page provides users with potential clubs to join based on the selected interests and hobbies.
+<img src="../DrawingMockups/Matching.png">
+
 
 ### Notify admin page
 The Notify admin page is a form for users to report any suspicious or inappropriate activities.
