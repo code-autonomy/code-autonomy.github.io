@@ -1,4 +1,4 @@
-# Code Autonomy
+# Manoa Club Connect 
 [Code Autonomy's team contract](https://docs.google.com/document/d/1vnaw9mUNz1EwLI1KBHjaXsj-FHBfhJIuC1sw3JntjSA/edit#heading=h.yb5x12fr8lu2)
 
 ## Table of contents
