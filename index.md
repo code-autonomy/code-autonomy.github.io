@@ -58,6 +58,9 @@ The User-Profile page displays user's information (username, profile picture, UH
 =======
 The User-Profile page displays user's information (username, profile picture, and bio).
 <img src="DrawingMockups/File_000.png">
+<<<<<<< HEAD
+>>>>>>> bf9b34ea1b42a94cc24bd038255646d5e0e5e5dd
+=======
 >>>>>>> bf9b34ea1b42a94cc24bd038255646d5e0e5e5dd
 
 ### Categories page
@@ -84,7 +87,12 @@ WIP
 WIP
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h4>Milestone 3: </h4>
+=======
+[Milestone 3:]()
+<br>
+>>>>>>> bf9b34ea1b42a94cc24bd038255646d5e0e5e5dd
 =======
 [Milestone 3:]()
 <br>
