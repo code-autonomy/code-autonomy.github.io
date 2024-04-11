@@ -53,15 +53,10 @@ Once logged in, the Admin home page allows the admin to manage and moderate user
 <img src="DrawingMockups/AdminHome.png">
 
 ### User-Profile page
-<<<<<<< HEAD
 The User-Profile page displays user's information (username, profile picture, UH email, and bio).
 =======
 The User-Profile page displays user's information (username, profile picture, and bio).
 <img src="DrawingMockups/File_000.png">
-<<<<<<< HEAD
->>>>>>> bf9b34ea1b42a94cc24bd038255646d5e0e5e5dd
-=======
->>>>>>> bf9b34ea1b42a94cc24bd038255646d5e0e5e5dd
 
 ### Categories page
 The Categories page provides a list of categories of topics for users to select from.
@@ -86,15 +81,11 @@ WIP
 <br>
 WIP
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 <h4>Milestone 3: </h4>
 =======
 [Milestone 3:]()
 <br>
->>>>>>> bf9b34ea1b42a94cc24bd038255646d5e0e5e5dd
 =======
 [Milestone 3:]()
 <br>
->>>>>>> bf9b34ea1b42a94cc24bd038255646d5e0e5e5dd
 WIP
