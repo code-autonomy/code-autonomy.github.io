@@ -74,6 +74,9 @@ The Notify admin page is a form for users to report any suspicious or inappropri
 ## Developer Guide
 WIP
 
+## Deployment
+[Digital Ocean Deployment](http://64.23.210.170/)
+
 ## Development History
 [Milestone 1: Mock Up Development](https://github.com/orgs/code-autonomy/projects/4/views/1)
 
