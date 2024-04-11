@@ -60,7 +60,7 @@ The User-Profile page displays user's information (username, profile picture, an
 
 ### Categories page
 The Categories page provides a list of categories of topics for users to select from.
-<img src="DrawingMockups/Categories.png">
+<img src="Page-Screenshots/ClubCategories.png">
 
 ### Matching page
 The Matching page provides users with potential clubs to join based on the selected interests and hobbies.
