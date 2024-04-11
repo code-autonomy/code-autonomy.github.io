@@ -56,7 +56,7 @@ Once logged in, the Admin home page allows the admin to manage and moderate user
 The User-Profile page displays user's information (username, profile picture, UH email, and bio).
 =======
 The User-Profile page displays user's information (username, profile picture, and bio).
-<img src="Page-Screenshots/UserProfile.png">
+<img src="Page-Screenshots/User_ProfileUpdated.png">
 
 ### Categories page
 The Categories page provides a list of categories of topics for users to select from.
