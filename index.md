@@ -80,9 +80,7 @@ WIP
 ## Development History
 [Milestone 1: Mock Up Development](https://github.com/orgs/code-autonomy/projects/4/views/1)
 
-[Milestone 2: Deployment]()
-<br>
-WIP
+[Milestone 2: Deployment](https://github.com/orgs/code-autonomy/projects/8/views/2)
 
 <h4>Milestone 3: </h4>
 =======
