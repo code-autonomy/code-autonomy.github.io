@@ -42,7 +42,7 @@ Code Autonomy is designed, implemented, and maintained by Byron Soriano, Cristia
 
 ### Landing page
 The landing page is presented to users when they visit the top-level URL to the site.
-<img src="DrawingMockups/LandingPage.png">
+<img src="Page-Screenshots/Landing_Page.png">
 
 ### User home page
 Once logged in, the User home page displays an overview of the user's interests/hobbies, and display of messages/notifications about users that match their interests.
@@ -56,7 +56,7 @@ Once logged in, the Admin home page allows the admin to manage and moderate user
 The User-Profile page displays user's information (username, profile picture, UH email, and bio).
 =======
 The User-Profile page displays user's information (username, profile picture, and bio).
-<img src="DrawingMockups/File_000.png">
+<img src="Page-Screenshots/UserProfile.png">
 
 ### Categories page
 The Categories page provides a list of categories of topics for users to select from.
