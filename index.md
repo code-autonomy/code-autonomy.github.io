@@ -7,6 +7,7 @@
 * [Team](#team)
 * [Mock-up Ideas](#mock-up-ideas)
 * [Developer Guide](#developer-guide)
+* [Deployment](#deployment)
 * [Development History](#development-history)
 
 ## Overview
