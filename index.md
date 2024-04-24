@@ -4,6 +4,7 @@
 ## Table of contents
 * [Overview](#overview)
 * [Features](#features)
+* [User Guide](#user-guide)
 * [Team](#team)
 * [Mock-up Ideas](#mock-up-ideas)
 * [Developer Guide](#developer-guide)
@@ -29,6 +30,9 @@ The Manoa Club Connects project utilizes GitHub for version control and collabor
 * **Browse clubs**: Browse by interest area(s).
 * **Photos**: supports upload of photos.
 * **Complaints**: users can report inappropriate content or users.
+
+## User Guide
+The Manoa Club Connect website allows users for three level of users: user, admin, and superadmin. Regular users have access to the club categories page and a custom user profile page after signing in. Admins have access to their respective club's host page, where they can edit and update information accordingly. Super admins are able to view the entire list of clubs currently registered in the websites database, and may add more clubs or delete clubs who have not renewed their organization.
 
 ## Team
 Code Autonomy is designed, implemented, and maintained by Byron Soriano, Cristian Milanes, Luis Hernandez, Joshua Asuncion, and Eisen Oallesma.
