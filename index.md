@@ -47,7 +47,11 @@ Code Autonomy is designed, implemented, and maintained by Byron Soriano, Cristia
 
 ### Landing page
 The landing page is presented to users when they visit the top-level URL to the site.
-<img src="Page-Screenshots/Landing_Page.png">
+The carousel on this page cycles through the signin/signup and two other informational items.
+<img src="Page-Screenshots/Updated_landing.png">
+
+After a user signs into their account, the first slide of the carousel changes to present the different pages.
+<img src="">
 
 ### User home page
 Once logged in, the User home page displays an overview of the user's interests/hobbies, and display of messages/notifications about users that match their interests.
