@@ -59,7 +59,7 @@ Once logged in, the User home page displays an overview of the user's interests/
 
 ### Club Admin home page
 Once logged in, the Admin home page allows the admin to manage and moderate user accounts, services, and issues.
-<img src="DrawingMockups/AdminHome.png">
+<img src="Page-Screenshots/club_host_page.png">
 
 ### User-Profile page
 The User-Profile page displays user's information (username, profile picture, UH email, and bio).
@@ -76,9 +76,13 @@ The Matching page provides users with potential clubs to join based on the selec
 <img src="DrawingMockups/Matching.png">
 
 
-### Notify admin page
+### Admin page
 The Notify admin page is a form for users to report any suspicious or inappropriate activities.
-<img src="DrawingMockups/Notify.png">
+<img src="Page-Screenshots/admin_page.png">
+
+## Admin Add Club Form
+From the admin page, the admin has the ability to add new clubs/organizations to the database via the plus icon.
+<img src="Page-Screenshots/add_club.png">
 
 ## Developer Guide
 WIP
