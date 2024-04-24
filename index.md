@@ -171,7 +171,7 @@ At the bottom of the admin page, admins can go to a page where they are able to 
 <img src="Page-Screenshots/remove_club.png">
 
 ## Deployment
-[Digital Ocean Deployment](http://64.23.210.170/)
+[Digital Ocean Deployment](https://manoa-club-connect.xyz/)
 
 ## Development History
 [Milestone 1: Mock Up Development](https://github.com/orgs/code-autonomy/projects/4/views/1)
