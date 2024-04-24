@@ -178,11 +178,4 @@ At the bottom of the admin page, admins can go to a page where they are able to 
 
 [Milestone 2: Deployment](https://github.com/orgs/code-autonomy/projects/8/views/2)
 
-<h4>Milestone 3: </h4>
-=======
-[Milestone 3:]()
-<br>
-=======
-[Milestone 3:]()
-<br>
-WIP
+[Milestone3: Finale](https://github.com/orgs/code-autonomy/projects/9/views/1)
