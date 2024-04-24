@@ -1,4 +1,4 @@
-# Manoa Club Connect 
+# Manoa Club Connect ![ci-badge](https://github.com/code-autonomy/code-autonomy.github.io/workflows/ci-manoa-club-connect/badge.svg)
 [Code Autonomy's team contract](https://docs.google.com/document/d/1vnaw9mUNz1EwLI1KBHjaXsj-FHBfhJIuC1sw3JntjSA/edit#heading=h.yb5x12fr8lu2)
 
 ## Table of contents
