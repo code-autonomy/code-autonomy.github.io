@@ -5,9 +5,9 @@
 * [Overview](#overview)
 * [Features](#features)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Team](#team)
 * [Mock-up Ideas](#mock-up-ideas)
-* [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Development History](#development-history)
 
@@ -112,6 +112,7 @@ I20240423-18:58:42.459(-10)?   Adding: Chi Epsilon
 
 => App running at: http://localhost:3000/
 ```
+
 The above output in the terminal is the initialization of the default users and clubs in the database.
 ## Modifying the database
 There are two ways to modify the database:
@@ -124,12 +125,7 @@ There are two ways to modify the database:
 Code Autonomy is designed, implemented, and maintained by Byron Soriano, Cristian Milanes, Luis Hernandez, Joshua Asuncion, and Eisen Oallesma.
 
 # Mock-up Ideas
-  * [Landing page](#landing-page)
   * [User home page](#user-home-page)
-  * [Admin home page](#admin-home-page)
-  * [User-Profile page](#user-profile-page)
-  * [Categories page](#categories-page)
-  * [Notify admin page](#notify-admin-page)
 
 ## Landing page
 The landing page is presented to users when they visit the top-level URL to the site.
