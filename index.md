@@ -11,7 +11,7 @@
 * [Deployment](#deployment)
 * [Development History](#development-history)
 
-## Overview
+# Overview
 
 The project we chose to do was Manoa Club Connect. This website offers three distinct user roles, each authenticated via their UH ID. Standard users navigate through the directory, while Club Administrators possess the authority to modify their club's associated data. Super Administrators oversee the site's content integrity and selectively give "Club Administrator" privileges.
 
