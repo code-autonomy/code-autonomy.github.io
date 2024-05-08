@@ -8,6 +8,7 @@
 * [Developer Guide](#developer-guide)
 * [Team](#team)
 * [Mock-up Ideas](#mock-up-ideas)
+* [Community Feedback](#community-feedback)
 * [Deployment](#deployment)
 * [Development History](#development-history)
 
@@ -33,6 +34,38 @@ The Manoa Club Connects project utilizes GitHub for version control and collabor
 
 # User Guide
 The Manoa Club Connect website allows users for three level of users: user, admin, and superadmin. Regular users have access to the club categories page and a custom user profile page after signing in. Admins have access to their respective club's host page, where they can edit and update information accordingly. Super admins are able to view the entire list of clubs currently registered in the websites database, and may add more clubs or delete clubs who have not renewed their organization.
+
+## Landing page
+The landing page is presented to users when they visit the top-level URL to the site.
+The carousel on this page cycles through the signin/signup and two other informational items.
+<img src="Page-Screenshots/Updated_landing.png">
+
+After a user signs into their account, the first slide of the carousel changes to present the different pages.
+<img src="Page-Screenshots/post_signin.png">
+
+## Categories page
+The Categories page provides a list of categories of topics for users to select from.
+<img src="Page-Screenshots/ClubCategories.png">
+
+## User-Profile page
+The User-Profile page displays user's information (username, profile picture, and bio).
+<img src="Page-Screenshots/User_ProfileUpdated.png">
+
+## Club Admin home page
+Once logged in, the Admin home page allows the admin to manage and moderate user accounts, services, and issues.
+<img src="Page-Screenshots/club_host_page.png">
+
+## Admin page
+The Notify admin page is a form for users to report any suspicious or inappropriate activities.
+<img src="Page-Screenshots/admin_page.png">
+
+### Admin Add Club Form
+From the admin page, the admin has the ability to add new clubs/organizations to the database via the plus icon.
+<img src="Page-Screenshots/add_club.png">
+
+### Remove Club Form
+At the bottom of the admin page, admins can go to a page where they are able to remove inactive clubs.
+<img src="Page-Screenshots/remove_club.png">
 
 # Developer Guide
 This section will be a wlakthrough on how to download, install, run and modify the Manoa Club Connect system.
@@ -126,54 +159,23 @@ Code Autonomy is designed, implemented, and maintained by Byron Soriano, Cristia
 
 # Mock-up Ideas
   * [User home page](#user-home-page)
-
-## Landing page
-The landing page is presented to users when they visit the top-level URL to the site.
-The carousel on this page cycles through the signin/signup and two other informational items.
-<img src="Page-Screenshots/Updated_landing.png">
-
-After a user signs into their account, the first slide of the carousel changes to present the different pages.
-<img src="Page-Screenshots/post_signin.png">
+  * [Matching Page](#matching-page)
 
 ## User home page
 Once logged in, the User home page displays an overview of the user's interests/hobbies, and display of messages/notifications about users that match their interests.
 <img src="DrawingMockups/UserHomePage.png">
 
-## Club Admin home page
-Once logged in, the Admin home page allows the admin to manage and moderate user accounts, services, and issues.
-<img src="Page-Screenshots/club_host_page.png">
-
-## User-Profile page
-The User-Profile page displays user's information (username, profile picture, UH email, and bio).
-=======
-The User-Profile page displays user's information (username, profile picture, and bio).
-<img src="Page-Screenshots/User_ProfileUpdated.png">
-
-## Categories page
-The Categories page provides a list of categories of topics for users to select from.
-<img src="Page-Screenshots/ClubCategories.png">
-
 ## Matching page
 The Matching page provides users with potential clubs to join based on the selected interests and hobbies.
 <img src="DrawingMockups/Matching.png">
 
+# Community Feedback
+We are always open to feedback on how we can improve the functionality of the website. The UH community are valued members of the Code Autonomy organization, and anything you have to say is important to us!
 
-## Admin page
-The Notify admin page is a form for users to report any suspicious or inappropriate activities.
-<img src="Page-Screenshots/admin_page.png">
-
-### Admin Add Club Form
-From the admin page, the admin has the ability to add new clubs/organizations to the database via the plus icon.
-<img src="Page-Screenshots/add_club.png">
-
-### Remove Club Form
-At the bottom of the admin page, admins can go to a page where they are able to remove inactive clubs.
-<img src="Page-Screenshots/remove_club.png">
-
-## Deployment
+# Deployment
 [Digital Ocean Deployment](https://manoa-club-connect.xyz/)
 
-## Development History
+# Development History
 [Milestone 1: Mock Up Development](https://github.com/orgs/code-autonomy/projects/4/views/1)
 
 [Milestone 2: Deployment](https://github.com/orgs/code-autonomy/projects/8/views/2)
