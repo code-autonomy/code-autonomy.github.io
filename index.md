@@ -187,6 +187,8 @@ The Matching page provides users with potential clubs to join based on the selec
 # Community Feedback
 We are always open to feedback on how we can improve the functionality of the website. The UH community are valued members of the Code Autonomy organization, and anything you have to say is important to us!
 
+* "I like the design of the home page, it looks nice and feels comfortable to navigate. However, I feel like the "View List" page is a little redundant and underwhelming compared to the other pages."
+
 # Deployment
 [Digital Ocean Deployment](https://manoa-club-connect.xyz/)
 
