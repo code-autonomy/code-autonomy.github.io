@@ -53,7 +53,7 @@ This is a list of all the clubs in alphabetical order, for those who would rathe
 <img src="Page-Screenshots/club-list.png">
 
 ## Categories page
-The Categories page provides a list of categories of topics for users to select from.
+The Categories page provides a list of categories of topics for users to select from. Currently, there are over 50 clubs within the database that are displayed across the categories.
 <img src="Page-Screenshots/club-categories.png">
 
 ## User-Profile page
