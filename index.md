@@ -43,13 +43,18 @@ The carousel on this page cycles through the signin/signup and two other informa
 After a user signs into their account, the first slide of the carousel changes to present the different pages.
 <img src="Page-Screenshots/Updated_landing.png">
 
+## Sign In and Sign Up
+From the landing page, when users click on the dropdown in the navbar or the button on the main slide of the carousel to either sign in or sign up, they will be taken to the respective pages to register their account or login into their existing account.
+<img src="Page-Screenshots/signin.png">
+<img src="Page-Screenshots/signup.png">
+
 ## Raw List of Clubs
 This is a list of all the clubs in alphabetical order, for those who would rather see a full list of available clubs.
-<img src="Page-Screenshots/raw_list.png">
+<img src="Page-Screenshots/club-list.png">
 
 ## Categories page
 The Categories page provides a list of categories of topics for users to select from.
-<img src="Page-Screenshots/ClubCategories.png">
+<img src="Page-Screenshots/club-categories.png">
 
 ## User-Profile page
 The User-Profile page displays user's information (username, profile picture, and bio).
