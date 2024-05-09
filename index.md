@@ -1,4 +1,4 @@
-![image](https://github.com/code-autonomy/code-autonomy.github.io/assets/122394443/db4698c9-ebfa-4208-94a9-f02d19bea922)# Manoa Club Connect ![ci-badge](https://github.com/code-autonomy/manoa-club-connect/workflows/ci-manoa-club-connect/badge.svg)
+# Manoa Club Connect ![ci-badge](https://github.com/code-autonomy/manoa-club-connect/workflows/ci-manoa-club-connect/badge.svg)
 [Code Autonomy Organization](https://github.com/code-autonomy)
 <br>
 [Code Autonomy's team contract](https://docs.google.com/document/d/1vnaw9mUNz1EwLI1KBHjaXsj-FHBfhJIuC1sw3JntjSA/edit#heading=h.yb5x12fr8lu2)
@@ -60,7 +60,7 @@ The Categories page provides a list of categories of topics for users to select 
 
 ## User-Profile page
 The User-Profile page displays user's information (username, profile picture, and bio).
-<img src="Page-Screenshots/Udated_user.png">
+<img src="Page-Screenshots/Updated_user.png">
 
 ## Club Admin home page
 Once logged in, the Admin home page allows the admin to manage and moderate user accounts, services, and issues. By clicking on the edit icon under "Contact Email", the user will be redirected to a page to edit the information for the club.
