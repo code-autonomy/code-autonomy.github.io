@@ -201,4 +201,4 @@ We are always open to feedback on how we can improve the functionality of the we
 
 [Milestone 2: Deployment](https://github.com/orgs/code-autonomy/projects/8/views/2)
 
-[Milestone3: Finale](https://github.com/orgs/code-autonomy/projects/9/views/1)
+[Milestone 3: Finale](https://github.com/orgs/code-autonomy/projects/9/views/1)
