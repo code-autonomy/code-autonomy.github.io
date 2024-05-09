@@ -188,6 +188,9 @@ The Matching page provides users with potential clubs to join based on the selec
 We are always open to feedback on how we can improve the functionality of the website. The UH community are valued members of the Code Autonomy organization, and anything you have to say is important to us!
 
 * "I like the design of the home page, it looks nice and feels comfortable to navigate. However, I feel like the "View List" page is a little redundant and underwhelming compared to the other pages."
+* "The User Profile page needs a way to edit my profile. Some rows in the Explore Clubs page scroll while others don't. There are also no numbers or indicators to let me know how many pages to scroll through. Also the logo is kind of small. I do like the startrooper on the sign out screen."
+* "I like the Baldur's Gate reference in the Explore Clubs page. The rows change heights though, and it kind of throws me off when I'm scrolling through the pages of each category. The user profile page also doesn't let me edit my profile."
+* "All of the pages look nice, and it's very easy to navigate the website. I like that I can look through the clubs by their category, and that the profile page shows me what clubs align with my interests." 
 
 # Deployment
 [Digital Ocean Deployment](https://manoa-club-connect.xyz/)
