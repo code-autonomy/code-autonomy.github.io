@@ -60,7 +60,7 @@ The Categories page provides a list of categories of topics for users to select 
 
 ## User-Profile page
 The User-Profile page displays user's information (username, profile picture, and bio).
-<img src="Page-Screenshots/Updated_user.png">
+<img src="Page-Screenshots/user-profile.png">
 
 ## Club Admin home page
 Once logged in, the Admin home page allows the admin to manage and moderate user accounts, services, and issues. By clicking on the edit icon under "Contact Email", the user will be redirected to a page to edit the information for the club.
